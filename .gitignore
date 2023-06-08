@@ -1,0 +1,9 @@
+
+### MacOS ###
+**/.DS_Store
+
+### Windows ###
+**/desktop.ini
+
+### Shared OS ###
+**/._*
